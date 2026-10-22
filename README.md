@@ -27,3 +27,5 @@ Las graficas y tablas quedan en `outputs/` (listas para pegar en Canva).
 - Umbral y modelo final se eligen en validacion; la prueba se mide una sola vez.
 - Modelos: {Lineal, RBF} x {sin ajuste, class_weight, SMOTE} + Lineal con embedding polinomial explicito.
 - SMOTE requiere `imbalanced-learn` (esta en requirements.txt). Si no esta instalado, se omite con un aviso.
+
+# TODA LA INFORMACION DEL DATASET FUE TOMADO DE: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data
